@@ -1,0 +1,14 @@
+layout_spectrum: 0.2401434
+color:
+  saturation: 0.2688172
+  brandStrength: 0.8333333
+  lightness: 0.6810036
+  brandColors:
+    - '#201D16'
+    - '#C6C6C5'
+    - '#5D5D5B'
+    - '#C72838'
+    - '#4B99AD'
+  rhythmicContrast: 0.609319
+typography_spectrum: 0.7777778
+name: Williamsburg Speech Therapy
